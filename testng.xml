@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test suite">
+	
+	<listeners>
+		<listener class-name="com.Util.ExtentReporter"></listener>
+	</listeners>
+
+	<test name="Excel data upload test">
+		
+		<classes>
+			<class name="" />
+		</classes>
+		
+	</test> <!-- Default test -->
+</suite> <!-- Default suite -->
